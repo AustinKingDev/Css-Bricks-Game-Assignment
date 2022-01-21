@@ -1,0 +1,78 @@
+.gameScreen {
+    border-top:20px solid black;
+    margin: 0;
+    background-color: aquamarine;
+    
+}
+
+.score {
+    color:aquamarine;
+    position: absolute;
+    margin-left: 9in;
+}
+
+.playarea {
+margin-top: 10px;
+margin-left: 10px;
+margin-bottom: 10px;
+margin-right: 10px;
+}
+
+.button {
+    border-radius: 10%;
+  color: black;
+  padding: 15px 39.3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 1px .10px;
+  cursor: pointer;
+}
+
+.red {
+    background-color:red;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.white {
+    padding: 7px 78.6px;
+    background-color: aquamarine;
+
+}
+
+.small {
+    padding: 7px 7px;
+    background-color: white;
+    position:absolute;
+}
+
+.small1 {
+    padding: 7px 7px;
+    background-color: white;
+    position:absolute;
+    margin-left: 65px
+}
+
+/* .grid {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto ;
+    grid-template-areas: 
+    "red    red   red    red    red    red"
+    "yellow .     yellow yellow .      yellow"
+    "green  green green  green  green  green"
+    "blue   blue  blue   blue   blue   blue";
+} */
+
